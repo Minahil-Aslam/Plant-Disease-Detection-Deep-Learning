@@ -53,5 +53,4 @@ Artificial Intelligence | Machine Learning | Deep Learning
 ### 🔍 Disease Prediction Result
 ![Disease Prediction Result](plant-disease-app-result.png)
 
-### 🍃 Uploaded Plant Leaf Image
-![Uploaded Plant Leaf Image](plant-pic.png)
+
