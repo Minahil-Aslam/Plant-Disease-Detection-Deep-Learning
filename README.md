@@ -44,3 +44,14 @@ Model predictions are estimates and may be incorrect for some images. Treatment 
 **Minahil Aslam**
 
 Artificial Intelligence | Machine Learning | Deep Learning
+
+## 📸 Application Screenshots
+
+### 🌿 Plant Disease Detection App
+![Plant Disease Detection App](plant-disease-app-top.png)
+
+### 🔍 Disease Prediction Result
+![Disease Prediction Result](plant-disease-app-result.png)
+
+### 🍃 Uploaded Plant Leaf Image
+![Uploaded Plant Leaf Image](plant-pic.png)
