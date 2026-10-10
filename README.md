@@ -59,8 +59,7 @@ This runs the public image-upload and preprocessing demonstration. It does not l
 
 ## 📸 Application Screenshots
 
-The screenshots above demonstrate the application's interface and example prediction workflow from the complete project.
-
+Screenshots of the application interface and example disease prediction results are available in the repository files.
 ## ⚠️ Disclaimer
 
 Model predictions may be incorrect for some images. Disease information and treatment suggestions should be treated as general guidance, not as a substitute for professional agricultural advice.
